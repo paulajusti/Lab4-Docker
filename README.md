@@ -1,2 +1,2 @@
-# Lab4-Docker
-Repo created to use Docker
+# docker-lab4
+Lab4 DockerFile Starter
