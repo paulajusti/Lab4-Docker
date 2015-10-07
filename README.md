@@ -1,2 +1,2 @@
 # Lab4-Docker
-Repo create to use Docker
+Repo created to use Docker
